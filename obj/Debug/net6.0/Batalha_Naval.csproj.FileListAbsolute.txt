@@ -1,0 +1,15 @@
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\bin\Debug\net6.0\Batalha_Naval.exe
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\bin\Debug\net6.0\Batalha_Naval.deps.json
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\bin\Debug\net6.0\Batalha_Naval.runtimeconfig.json
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\bin\Debug\net6.0\Batalha_Naval.dll
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\bin\Debug\net6.0\Batalha_Naval.pdb
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.csproj.AssemblyReference.cache
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.GeneratedMSBuildEditorConfig.editorconfig
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.AssemblyInfoInputs.cache
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.AssemblyInfo.cs
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.csproj.CoreCompileInputs.cache
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.dll
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\refint\Batalha_Naval.dll
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.pdb
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\Batalha_Naval.genruntimeconfig.cache
+C:\TIM\SuperDesenvolvedor\Batalha_Naval\obj\Debug\net6.0\ref\Batalha_Naval.dll
